@@ -1,5 +1,4 @@
 # eunyoung1
-<!doctype html>
 
 <img src="https://contents.sixshop.com/thumbnails/uploadedFiles/86561/blogPost/image_1580898967232_1000.jpg" usemap="#homepage">
 <map name="homepage" id="homepage">
